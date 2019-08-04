@@ -11,7 +11,9 @@ and drag and drop the folder `js-files-for-flutter-crypto-js` inside your `ios/R
 
 add the dependency on your pubspec.yaml
 
+```yaml
 flutter_aes:
     git:
       url: https://github.com/itzamdev/flutter-aes
       ref: master
+```
